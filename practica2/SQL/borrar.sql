@@ -1,0 +1,11 @@
+DROP TABLE capitulo;
+DROP TABLE actua_serie;
+DROP TABLE trabaja_serie;
+DROP TABLE genero_serie;
+DROP TABLE serie;
+DROP TABLE actua_pelicula;
+DROP TABLE trabaja_pelicula;
+DROP TABLE pelis_relacionadas;
+DROP TABLE genero_pelicula;
+DROP TABLE pelicula;
+DROP TABLE trabajador;
